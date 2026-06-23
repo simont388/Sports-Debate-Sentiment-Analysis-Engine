@@ -1,0 +1,262 @@
+{
+  "terms": {
+
+    "washed": {
+      "concepts": ["decline", "aging", "regression", "past prime"],
+      "stat_dimensions": ["PER", "PPG", "TS%", "BPM", "VORP"],
+      "claim_type": "trend",
+      "sentiment_direction": "negative",
+      "related_debates": ["lebron_washed"]
+    },
+
+    "cooked": {
+      "concepts": ["decline", "aging", "regression", "finished"],
+      "stat_dimensions": ["PER", "PPG", "TS%", "BPM"],
+      "claim_type": "trend",
+      "sentiment_direction": "negative",
+      "related_debates": ["lebron_washed"]
+    },
+
+    "not the same": {
+      "concepts": ["decline", "regression", "reduced athleticism"],
+      "stat_dimensions": ["PER", "PPG", "TS%", "BPM"],
+      "claim_type": "trend",
+      "sentiment_direction": "negative",
+      "related_debates": ["lebron_washed"]
+    },
+
+    "system player": {
+      "concepts": ["scheme dependent", "overrated", "individual performance limited", "coaching dependent"],
+      "stat_dimensions": ["PPG", "TS%", "PER"],
+      "claim_type": "legitimacy",
+      "sentiment_direction": "negative",
+      "related_debates": ["curry_system_player"]
+    },
+
+    "product of the system": {
+      "concepts": ["scheme dependent", "overrated", "would not succeed elsewhere"],
+      "stat_dimensions": ["PPG", "TS%", "PER"],
+      "claim_type": "legitimacy",
+      "sentiment_direction": "negative",
+      "related_debates": ["curry_system_player"]
+    },
+
+    "fraud": {
+      "concepts": ["overrated", "illegitimate", "dependent on teammates"],
+      "stat_dimensions": ["PER", "PPG", "TS%", "WS"],
+      "claim_type": "legitimacy",
+      "sentiment_direction": "negative",
+      "related_debates": ["curry_system_player"]
+    },
+
+    "co-star": {
+      "concepts": ["supporting cast", "second star", "teammate dependence", "winning requires help"],
+      "stat_dimensions": ["team record", "playoff wins", "supporting cast BPM"],
+      "claim_type": "causal",
+      "sentiment_direction": "negative",
+      "related_debates": ["giannis_no_costar"]
+    },
+
+    "needs help": {
+      "concepts": ["supporting cast dependent", "cannot win alone", "co-star required"],
+      "stat_dimensions": ["team record", "playoff wins", "supporting cast BPM"],
+      "claim_type": "causal",
+      "sentiment_direction": "negative",
+      "related_debates": ["giannis_no_costar"]
+    },
+
+    "one man team": {
+      "concepts": ["no supporting cast", "carries team alone", "insufficient help"],
+      "stat_dimensions": ["team record", "playoff wins"],
+      "claim_type": "causal",
+      "sentiment_direction": "mixed",
+      "related_debates": ["giannis_no_costar"]
+    },
+
+    "can not shoot": {
+      "concepts": ["shooting deficiency", "perimeter weakness", "free throw problems"],
+      "stat_dimensions": ["3P%", "FT%", "TS%"],
+      "claim_type": "legitimacy",
+      "sentiment_direction": "negative",
+      "related_debates": ["giannis_no_costar"]
+    },
+
+    "greatest team": {
+      "concepts": ["best team ever", "historically dominant", "greatest roster assembled"],
+      "stat_dimensions": ["team net rating", "offensive rating", "defensive rating", "win percentage"],
+      "claim_type": "historical_comparison",
+      "sentiment_direction": "positive",
+      "related_debates": ["warriors_2017_goat_team"]
+    },
+
+    "goat team": {
+      "concepts": ["greatest team of all time", "historically dominant", "best roster ever"],
+      "stat_dimensions": ["team net rating", "offensive rating", "defensive rating", "win percentage"],
+      "claim_type": "historical_comparison",
+      "sentiment_direction": "positive",
+      "related_debates": ["warriors_2017_goat_team"]
+    },
+
+    "overrated": {
+      "concepts": ["reputation exceeds performance", "inflated perception", "does not live up to hype"],
+      "stat_dimensions": ["PER", "BPM", "VORP", "WS"],
+      "claim_type": "legitimacy",
+      "sentiment_direction": "negative",
+      "related_debates": ["kawhi_overrated"]
+    },
+
+    "load management": {
+      "concepts": ["rest games", "missed games", "availability", "durability concerns"],
+      "stat_dimensions": ["games played", "GP"],
+      "claim_type": "legitimacy",
+      "sentiment_direction": "negative",
+      "related_debates": ["kawhi_overrated"]
+    },
+
+    "ruined": {
+      "concepts": ["negative team impact", "chemistry disruption", "poor fit", "performance decline caused by player"],
+      "stat_dimensions": ["team wins", "net rating", "offensive rating", "defensive rating"],
+      "claim_type": "causal",
+      "sentiment_direction": "negative",
+      "related_debates": ["westbrook_ruined_lakers"]
+    },
+
+    "killed the team": {
+      "concepts": ["negative team impact", "chemistry disruption", "poor fit"],
+      "stat_dimensions": ["team wins", "net rating"],
+      "claim_type": "causal",
+      "sentiment_direction": "negative",
+      "related_debates": ["westbrook_ruined_lakers"]
+    },
+
+    "selfish": {
+      "concepts": ["individual stats over team", "low ball movement", "high usage", "poor team player"],
+      "stat_dimensions": ["APG", "usage rate", "assist percentage", "team wins"],
+      "claim_type": "legitimacy",
+      "sentiment_direction": "negative",
+      "related_debates": ["carmelo_selfish"]
+    },
+
+    "ball hog": {
+      "concepts": ["high usage", "selfish", "does not pass", "low assist rate"],
+      "stat_dimensions": ["APG", "usage rate", "assist percentage"],
+      "claim_type": "legitimacy",
+      "sentiment_direction": "negative",
+      "related_debates": ["carmelo_selfish"]
+    },
+
+    "never won": {
+      "concepts": ["no championships", "team failure", "individual success without winning"],
+      "stat_dimensions": ["championships", "playoff wins", "team record"],
+      "claim_type": "legitimacy",
+      "sentiment_direction": "negative",
+      "related_debates": ["carmelo_selfish"]
+    },
+
+    "most important": {
+      "concepts": ["highest impact", "irreplaceable", "team falls apart without", "best net rating impact"],
+      "stat_dimensions": ["BPM", "VORP", "WS", "team net rating", "defensive rating"],
+      "claim_type": "causal",
+      "sentiment_direction": "positive",
+      "related_debates": ["draymond_most_important_warrior"]
+    },
+
+    "most complete": {
+      "concepts": ["all around skill set", "scoring rebounding playmaking", "no weaknesses", "historically unique"],
+      "stat_dimensions": ["PER", "PPG", "RPG", "APG", "BPM", "VORP", "WS"],
+      "claim_type": "historical_comparison",
+      "sentiment_direction": "positive",
+      "related_debates": ["jokic_most_complete"]
+    },
+
+    "better scorer": {
+      "concepts": ["higher scoring average", "more efficient scoring", "greater offensive impact"],
+      "stat_dimensions": ["PPG", "TS%", "FG%", "PER"],
+      "claim_type": "direct_comparison",
+      "sentiment_direction": "positive",
+      "related_debates": ["kobe_vs_lebron_scoring"]
+    },
+
+    "clutch": {
+      "concepts": ["performs under pressure", "late game performance", "big moment execution"],
+      "stat_dimensions": ["PPG", "FG%", "playoff PPG"],
+      "claim_type": "legitimacy",
+      "sentiment_direction": "positive",
+      "related_debates": ["kobe_vs_lebron_scoring"]
+    }
+
+  },
+
+  "negation_words": [
+    "not", "never", "isn't", "wasn't", "aren't", "weren't",
+    "can't", "cannot", "couldn't", "won't", "wouldn't",
+    "no", "neither", "nor", "hardly", "barely", "scarcely"
+  ],
+
+  "causal_tokens": [
+    "because", "without", "due to", "thanks to", "caused by",
+    "as a result", "since", "therefore", "hence", "consequently",
+    "when", "whenever", "unless", "despite"
+  ],
+
+  "claim_type_rules": {
+    "two_entities_override": "direct_comparison",
+    "temporal_signals": {
+      "tokens": ["this year", "this season", "last year", "last season",
+                 "recently", "lately", "anymore", "used to", "back then", "prime"],
+      "maps_to": "trend"
+    },
+    "default_single_entity": "trend"
+  },
+
+  "player_aliases": {
+    "lebron": "LeBron James",
+    "king james": "LeBron James",
+    "bron": "LeBron James",
+    "steph": "Stephen Curry",
+    "curry": "Stephen Curry",
+    "chef curry": "Stephen Curry",
+    "giannis": "Giannis Antetokounmpo",
+    "greek freak": "Giannis Antetokounmpo",
+    "kobe": "Kobe Bryant",
+    "mamba": "Kobe Bryant",
+    "black mamba": "Kobe Bryant",
+    "kawhi": "Kawhi Leonard",
+    "the claw": "Kawhi Leonard",
+    "westbrook": "Russell Westbrook",
+    "russ": "Russell Westbrook",
+    "carmelo": "Carmelo Anthony",
+    "melo": "Carmelo Anthony",
+    "draymond": "Draymond Green",
+    "jokic": "Nikola Jokic",
+    "the joker": "Nikola Jokic",
+    "joker": "Nikola Jokic",
+    "golden state": "2017 Golden State Warriors",
+    "2017 warriors": "2017 Golden State Warriors",
+    "gsw": "2017 Golden State Warriors"
+  },
+
+  "stat_dimension_aliases": {
+    "three point shooting": "3P%",
+    "three point percentage": "3P%",
+    "from three": "3P%",
+    "free throw": "FT%",
+    "free throw percentage": "FT%",
+    "scoring": "PPG",
+    "points": "PPG",
+    "points per game": "PPG",
+    "rebounding": "RPG",
+    "rebounds": "RPG",
+    "assists": "APG",
+    "playmaking": "APG",
+    "efficiency": "TS%",
+    "true shooting": "TS%",
+    "per": "PER",
+    "player efficiency": "PER",
+    "win shares": "WS",
+    "box plus minus": "BPM",
+    "defense": "defensive rating",
+    "net rating": "net rating"
+  }
+
+}

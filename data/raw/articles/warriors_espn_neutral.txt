@@ -1,0 +1,59 @@
+Are these Warriors the greatest team ever? Better than MJ's Bulls?
+Kevin Pelton
+ESPN
+
+Are the Golden State Warriors, who completed the best postseason record in NBA history by beating the Cleveland Cavaliers 4-1 in the NBA Finals to finish 16-1, the greatest single-season team in league history?
+
+The title of GOAT team has belonged to the 1995-96 Chicago Bulls since they won a record 72 games during the regular season and went 15-3 en route to a championship. Last year's Warriors had a chance to knock off those Bulls after they set a new record with 73 regular-season wins, but were unable to back it up with a championship.
+
+Golden State was less dominant in the regular season this time around, winning 67 games, but put together the best playoffs the league has ever seen. Is that enough to topple the 1995-96 Bulls from their perch?
+
+
+Formula says Warriors rank No. 1
+Two years ago, when Golden State won its first championship on the heels of another 67-15 regular season, I put together a statistical formula to see where the Warriors ranked in NBA history. Naturally, Chicago's 1995-96 team topped the list. (Golden State's 2014-15 champs came in 15th because of a relatively weak playoff run.)
+
+My rankings took into account three primary factors:
+
+Regular-season point differential
+
+Playoff point differential
+
+The regular-season point differential of the team's playoff opponents (weighted by games played)
+
+Though their record was tied with seven teams for seventh in NBA history, according to Basketball-Reference.com this year's Warriors had the league's fourth-best regular-season point differential at plus-11.63 points per game, just behind the 1995-96 Bulls (plus-12.24 PPG). The 1971-72 Los Angeles Lakers (plus-12.28) and 1970-71 Milwaukee Bucks (plus-12.26) lead this category.
+
+On the other hand, while Golden State had the best playoff record ever, the 1970-71 Bucks did have a better point differential in the playoffs (plus-14.5) than the Warriors' plus-13.5 mark. The 2000-01 L.A. Lakers, who had the best postseason record before this year at 15-1, were plus-12.8. The 1995-96 Bulls rank just seventh in this category, having outscored opponents by 10.6 ppg largely because they lost twice by a combined 32 points to the Seattle SuperSonics in the NBA Finals.
+
+In terms of regular-season point differential, Golden State's opposition (plus-3.4 points per game) has been almost exactly average for a champion. Add that to their own margin of victory and the Warriors have played 17.0 points better than an average team in the playoffs, which ranks second behind the 2000-01 Lakers -- who won just 56 games during the regular season -- for best ever and is comfortably ahead of Chicago and everyone else.
+
+Since the other factor in my rankings -- league quality of play -- is similar between 1995-96 and this year, the final result can largely be determined by averaging the regular-season differential and playoff differential adjusted for opponent. Since the Warriors' playoff advantage is larger than the Bulls' edge in the regular season, the title moves them to the very top of the list by a wide margin.
+
+Best NBA Team Ratings
+TEAM	YEAR	RS	PO	OPP	LEAGUE SOS	LG_RTG
+GSW	2016-17	11.6	13.5	3.4	1.00	14.3
+CHI	1995-96	12.2	10.6	4.7	1.02	14.0
+BOS	1985-86	9.4	10.3	2.9	1.17	13.2
+LAL	1986-87	9.3	11.4	1.5	1.17	13.0
+PHI	1966-67	9.4	9.3	3.8	1.15	13.0
+CHI	1990-91	9.1	11.7	2.7	1.08	12.6
+MIL	1970-71	12.3	14.5	0.8	0.92	12.6
+LAL	1984-85	7.4	10.2	3.3	1.17	12.2
+BOS	1960-61	5.7	11.6	2.9	1.19	12.0
+So there you have it. Debate over. Golden State has pushed aside Chicago as the best team ever ... except for one other factor.
+
+
+While it certainly shouldn't detract from their championship, it is true the Warriors benefited from an atypical number of injuries to opponents in the playoffs -- most notably San Antonio Spurs All-Star Kawhi Leonard, but also starters George Hill of the Utah Jazz and Jusuf Nurkic of the Portland Trail Blazers. As a result, the regular-season point differential of Golden State's opponents doesn't entirely reflect the talent the Warriors actually faced.
+
+Before the NBA Finals, I used ESPN's real plus-minus (RPM) to estimate the talent of the teams Golden State played in the playoffs. Since RPM is not available for the 1995-96 Bulls, who benefited from some injuries themselves -- their 4-0 sweep of the Orlando Magic in the conference finals came with former Chicago power forward Horace Grant playing just one game -- let's switch to instead using Basketball-Reference.com's box plus-minus (BPM) metric.
+
+Based on BPM, here's how many points better (or worse) than league average the actual lineups the two teams faced were by round:
+
+Suddenly, the Bulls' path to the championship looks much more difficult. The Heat were a formidable first-round foe after acquiring Tim Hardaway midseason, and despite Grant's injury, the Magic rated better as an opponent than their point differential suggested because Shaquille O'Neal missed 28 regular-season games.
+
+Meanwhile, BPM suggests that the Trail Blazers team the Warriors faced in the opening round was worse even than their 41-41 record with Nurkic sidelined, and that the Leonard-less Spurs were weaker than any opponent Chicago faced in 1995-96. By virtue of extending the minutes of their stars, the Cavaliers look better here in terms of regular-season point differential, but still Golden State faced weaker opposition in reality than on paper.
+
+The difference in playoff opposition is enough to give the 1995-96 Bulls the edge over this year's Warriors if we plug these ratings into the playoff opponent category.
+
+The two teams are close enough that your answer to the greatest team ever question comes down to what you value. If beating quality opposition is most important to you, Chicago is the best team ever. If dominating lesser foes and rarely making a false step is more your speed, then Golden State is the GOAT team.
+
+That noted, my ratings offer one indisputable conclusion: either as a player (for the 1995-96 Bulls) or a coach (for this year's Warriors), Steve Kerr has been a part of the greatest single-season team in NBA history.

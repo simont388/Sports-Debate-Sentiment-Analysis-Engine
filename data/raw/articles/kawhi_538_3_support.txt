@@ -1,0 +1,74 @@
+Ty Lue Inherited A Kawhi Leonard Problem
+James L. Jackson
+FiveThirtyEight
+
+Through 50 seasons, the Los Angeles Clippers have tended to come undone at the worst possible times. Last year’s arrival of Kawhi Leonard and Paul George was supposed to remedy that; instead, history repeated itself in the form of a Western Conference semifinals collapse. Now the problem belongs to newly promoted head coach Tyronn Lue.
+
+Lue, whose head coaching career started midway through the Cleveland Cavaliers’ championship 2015-16 season, understands the challenge of elevating a franchise within an uncertain window. “Anytime you have a chance to win a championship, it’s pressure,” Lue told Rachel Nichols on ESPN’s “The Jump.” “And I think Kawhi, PG are here to stay for a long time. … We just gotta make it a great environment and we have to win.”
+
+For seven seasons, Doc Rivers, Lue’s predecessor, created the winningest environment in Clippers history, leading the Clippers to a top-five regular-season win percentage in that span (.631). But, of course, those numbers didn’t translate to the postseason: Rivers led the Clippers to just a 3-8 playoff mark in series-clinching opportunities, the most such losses among head coaches over his tenure. By contrast, Lue sports the best all-time win percentage in clinching situations (.909) among 52 qualified coaches,1 according to Elias Sports Bureau. Rivers’s career mark of .341 ranks fourth-worst on that list.
+
+As in his Cavaliers stint, Lue takes over the Clippers with the franchise facing its heaviest championship expectations to date. This weight bears a double-edged sword, one side sharpened by the Lakers’ recent 17th championship and the other by the relative immediacy of Leonard’s rapidly closing window.
+
+As the Clippers’ 3-1 semifinals collapse against the Denver Nuggets illustrated, it’s tough catching lightning in a bottle, even when your newly acquired centerpiece did so the season prior. Los Angeles paired Leonard with All-NBA forward George, an investment that paid off throughout the regular season, but their first playoff run together offered more questions than answers.
+
+According to NBA Advanced Stats, the Clippers’ star duo sported a net rating of 13.2 over 890 minutes in the regular season,2 but their rating fell by double-digits in the playoffs, bottoming out at -22.7 over the team’s three-game skid to end the season. Despite building around two of the league’s premiere two-way players, the Clippers’ defense struggled when Leonard and George shared the court during the playoffs.
+
+Things got worse in the playoffs for Kawhi and PG
+Stats for the Los Angeles Clippers with Kawhi Leonard and Paul George on the court together during the 2020 season
+
+OPP. 3-POINT %	DEF. EFFICIENCY	NET EFFICIENCY
+Regular season	35.1%	103.9	13.2
+Playoffs	38.1	109.8	1.1
+Differential	+3.0	+5.9	-12.1
+SOURCE: NBA ADVANCED STATS
+
+Lue chalked it up to chemistry problems brought on by injuries and the league’s abbreviated schedule. But the Clippers can’t afford another playoff run in which their stars collapse so dramatically, especially when both stars have contracts with player options after next season.
+
+To pair Leonard with George, the Clippers surrendered control of their first-round draft picks until 2028, well beyond either star’s prime. And while Lue is confident that the team can retain both Leonard and George long-term, the Clippers’ window remains open only as long as Leonard’s ability to weather deep playoff runs going forward — and Lue acknowledges the importance of managing the star’s health.
+
+Though Leonard only turns 30 next June, his basketball odometer and ongoing knee issues could curb his championship peak. Since being drafted in 2011, he ranks fifth in total playoff minutes, peaking at 939 in the 2019 postseason — a playoffs run in which he scored 732 points (third-most in NBA playoff history). Per Basketball-Reference.com, that total marked the highest by any player since LeBron James and the Miami Heat completed their repeat in 2013. Leonard is also one of only three players to win a Finals MVP with multiple franchises, and his career regular-season win percentage of .750 is the highest in NBA history according to the Elias Sports Bureau.3 But his past performances weren’t enough to end L.A.’s streak of frustration.
+
+Clutch-time performance for the Los Angeles Clippers in the 2020 playoffs
+
+POINTS	FG %	ASSISTS
+Kawhi Leonard	22	53.8%	3
+Rest of team	31	42.1	3
+SOURCE: NBA ADVANCED STATS
+
+In Game 7 against the Nuggets, Leonard shot just 1-for-11 after halftime, which marked his worst shooting half4 over 648 regular and postseason games. Even worse for the Clippers, Leonard’s clutch-time output (22 points) nearly matched the rest of his teammates’ combined (31), per NBA Advanced Stats. In fact, he was the only Clipper with a double-digit output in such situations over the 2020 playoffs.
+
+Long-term, the franchise cannot contend while skating on such thin ice. So what were the specific deficiencies for the team, and how can Lue and the front office go about fixing them, as constricted as they are?
+
+Field-goal percentage by shot type for Kawhi Leonard in the fourth quarter and overtime, 2019-20
+
+SHOT TYPE	REG. SEASON	PLAYOFFS
+In paint	60%	54%
+Midrange	47	37
+Contested	45	42
+SOURCE: SECOND SPECTRUM
+
+Though Leonard posted career highs in scoring and assists during his first Clippers season, it grew progressively tougher for him to dominate from his sweet spots late in games. According to Second Spectrum, during the regular season, Leonard ranked sixth among 40 qualified shooters in field-goal percentage in the fourth quarter or overtime from midrange (47.1). By the playoffs, his decrease on such shots coincided with other noticeable late-game dips. As Leonard’s efficiency shrank when it mattered, so did the Clippers’ room for error.
+
+Following Los Angeles’ Game 7 loss to Denver, Leonard reflected on arguably the Clippers’ greatest weakness en route to elimination: an inability to create productive possessions at critical moments. “When a team is playing us a certain way — trying to get the ball out of my hands or packing the paint — we gotta know what to do,” Leonard said. “We can’t panic if we’re not making shots — if I’m not making shots.”
+
+During the regular season, the team ranked only 24th in the league in assist rate, by far the lowest team ranking in Leonard’s career. Point guard seems an obvious position where an upgrade over Patrick Beverley and Lou Williams would help the club. Like Leonard and George, Williams can be a free agent after next season. Beverley has two years and over $27 million remaining on his deal, per Spotrac.
+
+Given their aforementioned bare cupboard of draft capital, the Clippers’ most practical options for improvement are maximizing their respective salary-cap exceptions in free agency and pursuing sign-and-trade options for Montrezl Harrell, as a long-term raise from his $6 million salary could clash with the Clippers’ win-now prospects.
+
+Despite posting regular-season career highs in scoring and rebounding, Harrell’s inability to protect the rim in the playoffs proved costly, especially when sharing the court with two of the league’s premier perimeter defenders.
+
+Harrell struggled alongside Leonard and George in playoffs
+Playoff stats per 100 possessions for the Clippers with Kawhi Leonard and Paul George on the court together, with or without Montrezl Harrell
+
+OFF. EFFICIENCY	NET EFFICIENCY	OPP. POINTS IN PAINT
+Harrell off the court	+115.1	+10.7	35.9
+Harrell on the court	+91.5	-30.1	50.9
+Differential	-23.6	-40.8	+15.0
+SOURCE: NBA ADVANCED STATS
+
+Per Spotrac, the Clippers will enter free agency with a non-taxpayer midlevel exception ($9.3 million) and biannual exception ($3.6 million) in their pocket. With the likes of Fred VanVleet, De’Aaron Fox and Goran Dragić potentially available, the Clippers could certainly improve their playmaking on paper should the trade market bear little fruit.
+
+During Lue’s introductory press conference, Clippers owner Steve Ballmer detailed the importance of maximizing the roster within the team’s foreseeable limitations. “Everyone knows our situation with our picks, we’re just going to have to do better and better with all aspects of player development,” Ballmer said. “Given that we don’t have a lot of picks going forward, how we sort of work in margins and really find and develop talent and how we use our exceptions and veteran minimums, there’s a lot of work.”
+
+With history behind them, and limited resources to allow them to think too far down the road, the Clippers’ best bet is for Ballmer and Lue to provide every assurance that Leonard’s best playoff runs aren’t already behind him.

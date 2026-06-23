@@ -1,0 +1,21 @@
+{
+  "trend_negative": {
+    "concepts": ["longevity", "sustained performance", "age defying", "still elite", "consistent", "peak physical condition", "reliable"]
+  },
+
+  "legitimacy_negative": {
+    "concepts": ["elite", "legitimate", "championship", "proven", "high impact", "accolades", "individual brilliance", "dominant", "irreplaceable"]
+  },
+
+  "causal_negative": {
+    "concepts": ["coaching", "roster construction", "team chemistry", "external factors", "front office", "positive impact", "winning culture", "playoff success"]
+  },
+
+  "direct_comparison_positive": {
+    "concepts": ["superior", "outperformed", "more efficient", "higher impact", "better metrics", "all-around", "statistical edge"]
+  },
+
+  "historical_comparison_positive": {
+    "concepts": ["all time great", "historical precedent", "era comparison", "greatest roster", "unmatched", "dynasty", "record breaking"]
+  }
+}
