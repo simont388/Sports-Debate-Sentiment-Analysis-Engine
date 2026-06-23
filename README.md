@@ -1,3 +1,7 @@
+This engine takes informal sports opinions and retrieves statistical and textual evidence that both supports and refutes the claim. This evidence is scored using a custom scoring system a verduct is generated using a local LLM to summarize the evidence based on the scores. This model is able to bridge the gap between informal, sentiment heavy language and formal sports evidence. Currently there is only a small corpus specifically related to basketball. The claims that are supported are only the claims below as of right now. The next steps would be to create a more robust corpus creation system that dynamically collects evidence based on the user input instead of a static corpus based on static debates. Right now this model is a proof of concept for the sentiment analysis that bridges the gap between slang and analytics.
+
+
+
 ## Claims
 * **LeBron is washed.**
 * **Steph Curry is a system player.**
@@ -14,19 +18,28 @@
 
 ## Usage
 
+### Requirements & Models
+* Requires `spacy`, `gensim`, `nltk`, `pandas`, `scikit-learn`, `numpy`. 
+* LSI models and GloVe vectors load on startup
+* Optional: Ollama with `llama3.2` for LLM generated final verdicts, otherwise verdicts given on a strict rule-based system
+
 ### Preprocessing
+Run files in this order from the preprocessing folder:
+1. bbref_crawler.py
+2. wikipedia_crawler.py
+3. stat_templates.py
+4. build_corpus.py
+5. build_lsi.py
+
+### Running the Engine
 ```bash
 python main.py "LeBron is washed"      # single debate
 python main.py --all                   # run all 10 fixed debates
 python main.py --interactive           # interactive REPL mode
-
-### Requirements & Models
-* Requires `spacy`, `gensim`, `nltk`, `pandas`, `scikit-learn`, `numpy`. 
-* LSI models and GloVe vectors load on startup. 
-* **Optional:** Ollama with `llama3.2` for LLM verdicts (falls back to rule-based).
-
+```
+### Architecture
 ```text
-## Architecture
+
 sports_debate_ir/
 │
 ├── data/
@@ -65,3 +78,4 @@ sports_debate_ir/
 │   └── all_debate_results.txt      # batch output for --all mode
 │
 └── main.py                         # entry point, 6-stage pipeline orchestrator
+```
